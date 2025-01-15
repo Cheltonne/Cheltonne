@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently looking for a 4 to 6 months internship as a web developper
-- 🌱 I’m currently learning web related technologies in demand 
+- 🌱 I’m currently learning web related technologies in demand
+- I already have experience using Vanilla JavaScript, Django, PostgreSQL
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
